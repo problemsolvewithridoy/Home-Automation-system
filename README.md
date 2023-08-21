@@ -1,5 +1,5 @@
 
-# The Ultimate 8-Channel Smart Home Controller: Google Home, Alexa, and Android App Control 
+# The Ultimate 8-Channel Smart Home Controller Using ESP32: Google Home, Alexa, and Android App Control 
 
 I have shown how to make an ESP32 Alexa home automation system with Echo DOT, manual switches, relay module, and ESP32. I have used Amazon Alexa App to control the home appliances with voice commands for this Alexa automation project.
 
