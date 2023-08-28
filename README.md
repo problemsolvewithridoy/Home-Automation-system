@@ -17,7 +17,7 @@ As per the source code, when the control pins of the relay module receive the LO
 ```bash
 1. ESP32 DEV KIT V1
 2. 8-channel 5V SPDT Relay Module
-3. Manual Switches
+3. Manual Switches or Push Switches
 4. Amazon Echo Dot
 
 ```
